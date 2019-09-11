@@ -1,0 +1,47 @@
+You can add global styles to this file, and also import other style files
+
+.site-footer {
+    padding: 1em 0;
+}
+.site-navbar .py-3 .js-site-navbar .site-navbar-target{
+    background-color: #b3b3b3;
+}
+.important text-primary{
+   text-align: justify;
+}
+p{
+    text-align: justify;
+}
+#box2{ 
+ padding-top: 30%;
+ } 
+ .site-navbar.scrolled{
+     background-color:rgb(85, 85, 85)!important;
+    
+ }  
+.site-navbar .site-navigation .site-menu a {
+    color: #fffdfd;
+} 
+.site-navbar.scrolled .site-navigation .site-menu li a {
+    color: white;
+}
+.text-primary {
+    color: rgb(29, 175, 163)!important;
+}
+a{
+    color:rgb(29, 175, 163);
+}
+.how-it-work-item .number {
+    background: rgb(29, 175, 163)
+}
+.site-navbar.scrolled .site-navigation .site-menu li a.active {
+    color: rgb(29, 175, 163);
+}
+.site-navbar .site-navigation .site-menu a.active
+{
+    color: rgb(29, 175, 163);
+}
+.btn-primary {
+    background-color: rgb(29, 175, 163);
+    border-color: rgb(29, 175, 163);
+}
